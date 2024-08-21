@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Isabella Carter",
+      "cpf": "159.753.486-00",
+      "phone": "(11) 91234-5678",
+      "whatsapp": "(11) 91234-5678",
+      "email": "isabella.carter@example.com",
+      "address": "Rua K, 808, São Paulo, SP",
+      "provider": {
+        "vinculacao": "isabella.carter@example.com",
+        "bittrainers": true,
+        "bitbook": false,
+        "bittopics": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "James Harris",
+      "cpf": "951.753.852-00",
+      "phone": "(21) 92345-6789",
+      "whatsapp": "(21) 92345-6789",
+      "email": "james.harris@example.com",
+      "address": "Avenida L, 909, Rio de Janeiro, RJ",
+      "provider": {
+        "vinculacao": "951.753.852-00",
+        "bittrainers": false,
+        "bitbook": true,
+        "bittopics": false
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sophia Lee",
+      "cpf": "357.951.468-00",
+      "phone": "(31) 93456-7890",
+      "whatsapp": "(31) 93456-7890",
+      "email": "sophia.lee@example.com",
+      "address": "Rua M, 1010, Belo Horizonte, MG",
+      "provider": {
+        "vinculacao": "sophia.lee@example.com",
+        "bittrainers": true,
+        "bitbook": true,
+        "bittopics": false
+      }
+    }
+  ]
+}

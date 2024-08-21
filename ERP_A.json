@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "cpf": "123.456.789-00",
+      "phone": "(11) 98765-4321",
+      "whatsapp": "(11) 98765-4321",
+      "email": "alice.johnson@example.com",
+      "address": "Rua A, 123, São Paulo, SP",
+      "provider": {
+        "vinculacao": "alice.johnson@example.com",
+        "bittrainers": true,
+        "bitbook": false,
+        "bittopics": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "cpf": "987.654.321-00",
+      "phone": "(21) 99876-5432",
+      "whatsapp": "(21) 99876-5432",
+      "email": "bob.smith@example.com",
+      "address": "Avenida B, 456, Rio de Janeiro, RJ",
+      "provider": {
+        "vinculacao": "987.654.321-00",
+        "bittrainers": false,
+        "bitbook": true,
+        "bittopics": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charlie Davis",
+      "cpf": "456.789.123-00",
+      "phone": "(31) 91234-5678",
+      "whatsapp": "(31) 91234-5678",
+      "email": "charlie.davis@example.com",
+      "address": "Rua C, 789, Belo Horizonte, MG",
+      "provider": {
+        "vinculacao": "charlie.davis@example.com",
+        "bittrainers": true,
+        "bitbook": false,
+        "bittopics": false
+      }
+    },
+    {
+      "id": 4,
+      "name": "Diana Wilson",
+      "cpf": "789.123.456-00",
+      "phone": "(41) 92345-6789",
+      "whatsapp": "(41) 92345-6789",
+      "email": "diana.wilson@example.com",
+      "address": "Rua D, 101, Curitiba, PR",
+      "provider": {
+        "vinculacao": "diana.wilson@example.com",
+        "bittrainers": true,
+        "bitbook": true,
+        "bittopics": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ethan Martinez",
+      "cpf": "321.654.987-00",
+      "phone": "(51) 93456-7890",
+      "whatsapp": "(51) 93456-7890",
+      "email": "ethan.martinez@example.com",
+      "address": "Avenida E, 202, Porto Alegre, RS",
+      "provider": {
+        "vinculacao": "ethan.martinez@example.com",
+        "bittrainers": false,
+        "bitbook": true,
+        "bittopics": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Fiona Brown",
+      "cpf": "654.321.987-00",
+      "phone": "(61) 94567-8901",
+      "whatsapp": "(61) 94567-8901",
+      "email": "fiona.brown@example.com",
+      "address": "Rua F, 303, Brasília, DF",
+      "provider": {
+        "vinculacao": "654.321.987-00",
+        "bittrainers": true,
+        "bitbook": false,
+        "bittopics": false
+      }
+    },
+    {
+      "id": 7,
+      "name": "George Clark",
+      "cpf": "987.321.654-00",
+      "phone": "(71) 95678-9012",
+      "whatsapp": "(71) 95678-9012",
+      "email": "george.clark@example.com",
+      "address": "Rua G, 404, Salvador, BA",
+      "provider": {
+        "vinculacao": "george.clark@example.com",
+        "bittrainers": false,
+        "bitbook": true,
+        "bittopics": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Hannah Lewis",
+      "cpf": "789.654.123-00",
+      "phone": "(81) 96789-0123",
+      "whatsapp": "(81) 96789-0123",
+      "email": "hannah.lewis@example.com",
+      "address": "Avenida H, 505, Recife, PE",
+      "provider": {
+        "vinculacao": "hannah.lewis@example.com",
+        "bittrainers": true,
+        "bitbook": true,
+        "bittopics": false
+      }
+    },
+    {
+      "id": 9,
+      "name": "Ian Walker",
+      "cpf": "321.987.654-00",
+      "phone": "(91) 97890-1234",
+      "whatsapp": "(91) 97890-1234",
+      "email": "ian.walker@example.com",
+      "address": "Rua I, 606, Belém, PA",
+      "provider": {
+        "vinculacao": "321.987.654-00",
+        "bittrainers": false,
+        "bitbook": false,
+        "bittopics": true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Jack White",
+      "cpf": "654.987.321-00",
+      "phone": "(81) 98901-2345",
+      "whatsapp": "(81) 98901-2345",
+      "email": "jack.white@example.com",
+      "address": "Rua J, 707, Olinda, PE",
+      "provider": {
+        "vinculacao": "jack.white@example.com",
+        "bittrainers": true,
+        "bitbook": false,
+        "bittopics": true
+      }
+    }
+  ]
+}
